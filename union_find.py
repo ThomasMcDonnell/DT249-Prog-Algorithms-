@@ -100,7 +100,7 @@ Method No.3--> Weighted --> Improving upon the lazy approach by ensuring the tre
                             with out path compression the algorithm is lg N (base-2). However, by adding path 
                             compression and keeping the trees relatively flat it, any sequence of M union-find 
                             operations on N objects makes >= (N + M lg* N) array accesses. This algorithm in practices 
-                            behaves in a linear fashion.    git config --global user.email "you@example.com"
+                            behaves in a linear fashion.    
                             O(N + M lg* N) - wicked fast                             
 """
 
